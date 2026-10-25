@@ -2,8 +2,7 @@ cask "ardia@nightly" do
   version "0.2.41-nightly.1"
   sha256 "cd1a71dcaf69986bf3fd3d0915c4b8e8f443235b999ddaa89648a8fb2f8e5593"
 
-  url "https://github.com/mantrakp04/ardia/releases/download/v#{version}/Ardia-#{version}.dmg",
-      verified: "github.com/mantrakp04/ardia/"
+  url "https://github.com/mantrakp04/ardia/releases/download/v#{version}/Ardia-#{version}.dmg"
   name "Ardia Nightly"
   desc "Web browser with Arc's sidebar and Dia's polish"
   homepage "https://ardia.dev/nightly"
