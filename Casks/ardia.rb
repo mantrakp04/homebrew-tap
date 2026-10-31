@@ -1,6 +1,6 @@
 cask "ardia" do
-  version "0.2.42"
-  sha256 "b1b561944c2558697703e519568619027b14b8a8b9a94f3babf5b2f86e1214fc"
+  version "0.2.43"
+  sha256 "938890fe7683b10ab861161e83db073a6435a67f7266325ce6d6c32e96c5950d"
 
   url "https://github.com/mantrakp04/ardia/releases/download/v#{version}/Ardia-#{version}.dmg"
   name "Ardia"
